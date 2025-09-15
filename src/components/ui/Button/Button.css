@@ -9,11 +9,11 @@
 }
 
 .btn:hover {
-  background-color: #ebcca8;
+  background-color: #9fb0ff;
   color : #000;
 }
 
 .btn-active {
-  background-color: #ff7b00;
+  background-color: #4867f9;
   color: white;
 }
